@@ -1,0 +1,14 @@
+# THEMES
+# Tokyo Night
+include current-theme.conf
+
+#
+# FONTS
+font_size 13.0
+font_family JetBrainsMono NF Regular
+
+
+# BEGIN_KITTY_THEME
+# Tokyo Night
+include current-theme.conf
+# END_KITTY_THEME
