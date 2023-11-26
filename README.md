@@ -1,2 +1,2 @@
 # qtile-dotfiles
-Qtile Endeavouros dotfiles
+My personal dotfiles
