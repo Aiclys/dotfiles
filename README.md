@@ -31,10 +31,20 @@ mv ~/dots/qtile/volume.png ~/.config/qtile
 
 Repeat this process with the other folders (picom, betterlockscreen, kitty and rofi)
 
-## **Screenshots**:
+## **Screenshots:**
 
 1:
 ![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/bluenvim.png)
 
 2:
 ![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/2023-12-02_23-37.png)
+
+
+## **Dependencies:**
+
+> -qtile
+> -picom
+> -rofi
+> -neofetch
+> -kitty
+> -betterlockscreen
