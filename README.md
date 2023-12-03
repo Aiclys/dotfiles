@@ -1,6 +1,6 @@
 # **Dotfiles**
 
-Welcome to my qtile configuration files!
+Welcome to my qtile dotfiles!
 
 (I am still fixing the rofi config as it's currently not compatible with the keybinds in the qtile config)
 
