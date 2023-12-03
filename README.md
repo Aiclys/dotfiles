@@ -51,4 +51,4 @@ Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually i
  -kitty
  -betterlockscreen
 ```
-Do `sudo pacman -S picom qtile rofi neofetch kitty` and `yay -S betterlockscreen` or `paru -S betterlockscreen` to install on arch based distros
+Do `sudo pacman -S picom qtile rofi neofetch kitty` and `yay -S betterlockscreen` or `paru -S betterlockscreen` to install on Arch based distros.
