@@ -42,6 +42,10 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 3:
 ![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/whitegirlsmokescreen.png)
 
+4:
+![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/Screenshot_2023-11-25_3440x1440.png)
+
+
 
 
 Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo.
