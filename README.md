@@ -22,7 +22,11 @@ cp config.py config_back.py
 **Step 3 (move the files into your .config directory):**
 ```
 cp ~/dots/qtile/config.py ~/.config/qtile/config.py
-mv ~/dots/qtile/archlogo.png ~/.config/qtile 
+mv ~/dots/qtile/autostart.sh ~/.config/qtile
+chmod +x ~/.config/qtile/autostart.sh
+mv ~/dots/qtile/archlogo.png ~/.config/qtile
+mv ~/dots/qtile/cpu.png ~/.config/qtile
+mv ~/dots/qtile/volume.png ~/.config/qtile  
 ```
 
 ## **Screenshots**:
