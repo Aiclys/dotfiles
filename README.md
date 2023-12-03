@@ -42,9 +42,9 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 
 ## **Dependencies:**
 
-> -qtile
-> -picom
-> -rofi
-> -neofetch
-> -kitty
-> -betterlockscreen
+ -qtile
+ -picom
+ -rofi
+ -neofetch
+ -kitty
+ -betterlockscreen
