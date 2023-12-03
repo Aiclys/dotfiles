@@ -41,10 +41,12 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 
 
 ## **Dependencies:**
-
+```
  -qtile
  -picom
  -rofi
  -neofetch
  -kitty
  -betterlockscreen
+```
+Do `sudo pacman -S picom qtile rofi neofetch kitty` to install on arch based distros
