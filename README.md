@@ -49,4 +49,4 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
  -kitty
  -betterlockscreen
 ```
-Do `sudo pacman -S picom qtile rofi neofetch kitty` to install on arch based distros
+Do `sudo pacman -S picom qtile rofi neofetch kitty` and `yay -S betterlockscreen` or `paru -S betterlockscreen` to install on arch based distros
