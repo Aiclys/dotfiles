@@ -29,6 +29,8 @@ mv ~/dots/qtile/cpu.png ~/.config/qtile
 mv ~/dots/qtile/volume.png ~/.config/qtile  
 ```
 
+Repeat this process with the other folders (picom, betterlockscreen, kitty and rofi)
+
 ## **Screenshots**:
 
 1:
