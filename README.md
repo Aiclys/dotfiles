@@ -48,7 +48,7 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 
 
 
-Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo.
+Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo to get them.
 
 ## **Dependencies:**
 ```
