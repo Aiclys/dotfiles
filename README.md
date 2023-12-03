@@ -40,6 +40,8 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 ![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/2023-12-02_23-37.png)
 
 
+Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo.
+
 ## **Dependencies:**
 ```
  -qtile
