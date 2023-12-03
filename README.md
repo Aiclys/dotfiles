@@ -7,16 +7,22 @@ Welcome to my qtile configuration files
 Download:
 
 Step 1 (clone the repository):
-`git clone https://github.com/Aiclys/qtile-dotfiles ~/dots`
+```
+git clone https://github.com/Aiclys/qtile-dotfiles ~/dots
+```
 
 Step 2 (create a backup):
-`cd ~/.config/qtile`
-`touch config_back.py`
-`cp config.py config_back.py`
+```
+cd ~/.config/qtile
+touch config_back.py
+cp config.py config_back.py
+```
 (do the same thing with your other files if needed)
 
 Step 3 (move the files into your .config directory):
-`mv ~/dots/qtile ~/.config/qtile`
+```
+mv ~/dots/qtile ~/.config/qtile
+```
 
 **Screenshots**:
 
