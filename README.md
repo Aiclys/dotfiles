@@ -4,7 +4,7 @@ Welcome to my qtile dotfiles!
 
 (I am still fixing the rofi config as it's currently not compatible with the keybinds in the qtile config)
 
-## **Download**:
+## **Download:**
 
 **Step 1 (clone the repository):**
 ```
@@ -41,13 +41,33 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 
 Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo to get them.
 
-## **Dependencies:**
+## **Software I use:**
 ```
- -qtile
- -picom
- -rofi
- -neofetch
- -kitty
- -betterlockscreen
+ OS: ArcoLinux
+ WM: qtile
+ Compositor: picom
+ App Launcher and Powermenu: rofi
+ Utilities and fun scripts: neofetch; pfetch; bash-pipes; shell-color-scripts; cmatrix
+ Terminal: kitty
+ Lockscreen: betterlockscreen
+ Browser: librewolf-bin; brave-bin
+ Editor: emacs; neovim (Lazyvim Distro)
+ File browser: thunar
+ Communication: discord
+ Music: spotify
+ Entertainment: freetube-bin
+ Screenshots: flameshot
 ```
-Do `sudo pacman -S picom qtile rofi neofetch kitty` and `yay -S betterlockscreen` or `paru -S betterlockscreen` to install on Arch based distros.
+Do
+```
+sudo pacman -S picom qtile rofi neofetch kitty neovim thunar discord emacs flameshot
+```
+and 
+```
+ yay -S betterlockscreen pfetch bash-pipes shell-color-scripts spotify freetube-bin librewolf-bin brave-bin cmatrix
+
+ or
+
+ paru -S betterlockscreen pfetch bash-pipes shell-color-scripts spotify freetube-bin librewolf-bin brave-bin cmatrix
+```
+to install on Arch based distros.
