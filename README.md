@@ -74,5 +74,5 @@ to install on Arch based distros.
 
 
 ## **To-Dos**
- **-installation script**
- **-fix rofi config and scripts**
++ **installation script**
++ **fix rofi config and scripts**
