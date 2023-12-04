@@ -65,9 +65,9 @@ sudo pacman -S picom qtile rofi neofetch kitty neovim thunar discord emacs flame
 and 
 ```
  yay -S betterlockscreen pfetch bash-pipes shell-color-scripts spotify freetube-bin librewolf-bin brave-bin cmatrix
-
+```
  or
-
+```
  paru -S betterlockscreen pfetch bash-pipes shell-color-scripts spotify freetube-bin librewolf-bin brave-bin cmatrix
 ```
 to install on Arch based distros.
