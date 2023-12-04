@@ -71,3 +71,8 @@ and
  paru -S betterlockscreen pfetch bash-pipes shell-color-scripts spotify freetube-bin librewolf-bin brave-bin cmatrix
 ```
 to install on Arch based distros.
+
+
+## **To-Dos**
+> **-installation script**
+> **-fix rofi config and scripts**
