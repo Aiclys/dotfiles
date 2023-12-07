@@ -34,10 +34,10 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 ## **Screenshots:**
 
 1:
-![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/Screenshot_2023-12-07_3440x1440.png)
+![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/new_dots.png)
 
 2:
-![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/new_dots.png)
+![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/Screenshot_2023-12-07_3440x1440.png)
 
 3:
 ![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/screen_new.png)
