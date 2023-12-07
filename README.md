@@ -73,6 +73,10 @@ and
 to install on Arch based distros.
 
 
-## **To-Dos**
+## **To-Dos:**
 + **installation script**
 + **fix rofi config and scripts**
+
+
+## **CREDITS:**
++ ![rofi](https://github.com/adi1090x/rofi)
