@@ -51,7 +51,7 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 ![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/screen_new.png)
 
 
-Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo to get them.
+Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo to get them. If you only want the wallpapers that go well with this rice you can look at the ones in the wallpapers folder in this repo
 
 ## **Software I use:**
 ```
