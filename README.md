@@ -34,10 +34,14 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 ## **Screenshots:**
 
 1:
-![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/bluenvim.png)
+![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/Screenshot_2023-12-07_3440x1440.png)
 
 2:
-![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/2023-12-02_23-37.png)
+![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/new_dots.png)
+
+3:
+![Screenshot](https://github.com/Aiclys/qtile-dotfiles/blob/main/screen_new.png)
+
 
 Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo to get them.
 
