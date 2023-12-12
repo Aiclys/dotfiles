@@ -62,7 +62,7 @@ Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually i
  Utilities and fun scripts: neofetch; pfetch; bash-pipes; shell-color-scripts; cmatrix
  Terminal: kitty
  Lockscreen: betterlockscreen
- Browser: librewolf-bin; brave-bin
+ Browser: librewolf; brave
  Editor: emacs; neovim (Lazyvim Distro)
  File browser: thunar
  Communication: discord
