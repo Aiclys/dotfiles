@@ -11,8 +11,23 @@
 
 
 
+## **Auto-Download:**
 
-## **Download:**
+**Step 1 (clone repository):**
+```
+git clone https://github.com/Aiclys/qtile-dotfiles ~/dots
+```
+**Step 2 (make installation srcipt executable)**
+```
+cd ~/dots
+chmod +x qtile_install.sh
+```
+**Last step (run installation script):**
+```
+./qtile_install.sh
+```
+
+## **Manual Download:**
 
 **Step 1 (clone the repository):**
 ```
