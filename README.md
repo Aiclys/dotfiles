@@ -86,7 +86,7 @@ to install on Arch based distros.
 
 
 ## **To-Dos:**
-+ **installation script**
++ ~**installation script**~
 + **fix rofi config and scripts**
 
 
