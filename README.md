@@ -17,9 +17,15 @@ themes and wallpapers.
 ## **Auto-Download:**
 
 **Step 1 (clone repository):**
+Clone all branches:
 ```
-git clone https://github.com/Aiclys/qtile-dotfiles ~/dots
+git clone https://github.com/Aiclys/dotfiles ~/dots
 ```
+Clone only this branch:
+```
+git clone https://github.com/Aiclys/tree/main
+```
+
 **Step 2 (make installation srcipt executable)**
 ```
 cd ~/dots
