@@ -16,8 +16,7 @@ themes and wallpapers.
 
 ## **Auto-Download:**
 
-**Step 1 (clone repository):**
-Clone all branches:
+**Step 1 (clone repository, all branches):**
 ```
 git clone https://github.com/Aiclys/dotfiles ~/dots
 ```
