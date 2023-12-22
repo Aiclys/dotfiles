@@ -1,11 +1,19 @@
 #!/usr/bin/env sh
 
 # Welcome
-echo "Welcome to my Qtile installation script. This script only works on arch based distros"
+echo "Welcome to my Qtile installation script. This script only works on Arch based distros"
+
+# Deciding which branch you wnat to use
+echo "Which theme do you want? You can see a preview of the different themes by taking a look at the different branches of my repo"
+echo "1. All themes"
+echo "2. Main"
+echo "3. Oxocarbon"
+echo "4. Blue"
+read THEME
 
 # Installing extra packages
 echo "Installing the necessary packages..."
-sudo pacman -S nitrogen picom qtile rofi neofetch kitty neovim
+sudo pacman -S nitrogen picom qtile rofi neofetch kitty neovim emacs git
 
 echo "What AUR helper do you have installed?"
 echo "1. yay"
@@ -23,7 +31,11 @@ fi
 
 # Cloning the repo
 echo "Cloning the repo..."
-git clone https://github.com/Aiclys/qtile-dotfiles ~/dots
+if [[ $THEME == '1' ]]; then
+   git clone https://github.com/Aiclys/dotfiles ~/dots
+elif [[ $THEME == '2' ]]; then
+   git clone https://github.com/Aiclys/dotfiles/tree/main ~/dots
+fi
 
 # Backups
 echo "Do you want to create a backup of your current qtile configuration?"
