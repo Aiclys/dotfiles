@@ -10,6 +10,9 @@
 ```
 
 
+## **Important Info:**
+There are multiple branches because I have different rice variants for different color
+themes and wallpapers.
 
 ## **Auto-Download:**
 
