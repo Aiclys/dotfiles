@@ -34,7 +34,7 @@ chmod +x qtile_install.sh
 
 **Step 1 (clone the repository):**
 ```
-git clone https://github.com/Aiclys/qtile-dotfiles ~/dots
+git clone https://github.com/Aiclys/dotfiles ~/dots
 ```
 
 **Step 2 (create a backup):**
