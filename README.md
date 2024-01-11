@@ -22,7 +22,7 @@ git clone https://github.com/Aiclys/dotfiles ~/dots
 ```
 Clone only this branch:
 ```
-git clone https://github.com/Aiclys/tree/main
+git clone https://github.com/Aiclys/tree/blue
 ```
 
 **Step 2 (make installation srcipt executable)**
