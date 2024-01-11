@@ -74,7 +74,11 @@ Repeat this process with the other folders (picom, betterlockscreen, kitty and r
 ![Screenshot](https://github.com/Aiclys/dotfiles/blob/blue/bluescreen3.png)
 
 4:
-![Screenshot](https://github.com/Aiclys/dotfiles/blob/blue/bluescreen3.png)
+![Screenshot](https://github.com/Aiclys/dotfiles/blob/blue/bluescreen4.png)
+
+5:
+![Screenshot](https://github.com/Aiclys/dotfiles/blob/blue/bluescreen5.png)
+
 
 
 Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually install [my wallpapers](https://github.com/Aiclys/My-Wallpaper) from my other repo to get them. If you only want the wallpapers that go well with this rice you can look at the ones in the wallpapers folder in this repo
