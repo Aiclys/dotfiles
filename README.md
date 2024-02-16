@@ -18,11 +18,7 @@ themes and wallpapers.
 
 **Step 1 (clone repository, all branches):**
 ```
-git clone https://github.com/Aiclys/dotfiles ~/dots
-```
-Clone only this branch:
-```
-git clone https://github.com/Aiclys/tree/main
+git clone -b gruvbox https://github.com/Aiclys/dotfiles
 ```
 
 **Step 2 (make installation srcipt executable)**
