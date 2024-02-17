@@ -421,11 +421,11 @@ keys = [
         Key([], "t", lazy.spawn(tor), desc="Launch Tor Browser"),
     ),
 
-    Key(
-        [mod, "shift"], "l", 
-        lazy.spawn(browser), 
-        desc="Launch LibreWolf"
-    ),
+    #Key(
+    #    [mod, "shift"], "l", 
+    #    lazy.spawn(browser), 
+    #    desc="Launch LibreWolf"
+    #),
 
     Key(
         [mod, "shift"], "f", 
