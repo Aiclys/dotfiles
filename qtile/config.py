@@ -494,8 +494,8 @@ keys = [
     
     Key(
         [mod, "shift"], "v",
-        lazy.spawn(vbox),
-        desc="Launch VirtualBox"
+        lazy.spawn(vpn),
+        desc="Launch Mullvad VPN client"
     ),
 
     Key([mod, "shift"], "p",
