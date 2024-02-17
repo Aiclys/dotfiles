@@ -415,10 +415,10 @@ keys = [
         desc="Kill focused window"
     ),
 
-    Key(
-        [mod, "shift"], "b", 
-        lazy.spawn(browser2), 
-        desc="Launch Brave"
+    KeyChord([mod, "shift"], "b",[ 
+        Key([], "b", lazy.spawn(browser2), desc="Launch Brave"),
+        Key([], "m", lazy.spawn(mull_browse), desc="Launch Mullvad browser"),
+        Key([], "t", lazy.spawn(tor), desc="Launch Tor Browser"),
     ),
 
     Key(
