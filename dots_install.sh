@@ -59,5 +59,7 @@ fi
 
 # Moving my dotfiles to your .config folder
 echo "Which part of my dots do you want to move to your .config?"
+
+read WHICHPART
 echo "Moving dots into the .config folder..."
 mv ~/dots/qtile ~/.config
