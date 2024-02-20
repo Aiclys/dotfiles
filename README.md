@@ -81,25 +81,24 @@ Do `git clone https://github.com/Aiclys/My-Wallpaper ~/Wallpapers` or manually i
  Utilities and fun scripts: neofetch; pfetch; bash-pipes; shell-color-scripts; cmatrix
  Terminal: kitty
  Lockscreen: betterlockscreen
- Browser: librewolf; brave
+ Browser: mullvad browser; tor browser
  Editor: emacs; neovim (Lazyvim Distro)
- File browser: thunar
+ File browser: ranger
  Communication: discord
- Music: spotify
- Entertainment: freetube-bin
+ Music: ncmpcpp
  Screenshots: flameshot
 ```
 Do
 ```
-sudo pacman -S picom qtile rofi neofetch kitty neovim thunar discord emacs flameshot
+sudo pacman -S picom qtile rofi neofetch kitty neovim ranger discord emacs flameshot ncmpcpp
 ```
 and 
 ```
- yay -S betterlockscreen pfetch bash-pipes shell-color-scripts spotify freetube-bin librewolf-bin brave-bin cmatrix
+ yay -S betterlockscreen pfetch bash-pipes shell-color-scripts mullvad-broswer-bin tor-browser-bin mullvad-vpn-bin cmatrix
 ```
  or
 ```
- paru -S betterlockscreen pfetch bash-pipes shell-color-scripts spotify freetube-bin librewolf-bin brave-bin cmatrix
+ paru -S betterlockscreen pfetch bash-pipes shell-color-scripts mullvad-browser-bin tor-browser-bin mullvad-vpn-bin cmatrix
 ```
 to install on Arch based distros.
 
